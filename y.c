@@ -13,7 +13,7 @@ int main()
         for(k=1;k<=2*i-1;k++)
         {
         if(k==n||k==2*i-1)
-        printf("*");
+        printf("Y");
         else
         printf(" ");
         }
